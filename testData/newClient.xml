@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client>
+    <lastName>Semenov</lastName>
+    <firstName>Semen</firstName>
+    <patronymic>Semenovich</patronymic>
+    <documentType>passport</documentType>
+    <documentNumber>25624572</documentNumber>
+    <dateOfBirth>01.01.1990</dateOfBirth>
+</client>
