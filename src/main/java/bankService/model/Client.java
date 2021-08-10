@@ -15,7 +15,6 @@ public class Client {
     private String documentType;
     private String documentNumber;
     private String dateOfBirth;
-    //private List<Account> accounts;
 
     public Client(int id, String lastName, String firstName, String patronymic, String documentType, String documentNumber,
                   String dateOfBirth) throws Exception {
